@@ -1,0 +1,54 @@
+@charset "UTF-8";
+
+h2.lead{
+    font-size: 50pt;
+    margin: 10px 0;
+}
+.logo{
+    width: 200px;
+    margin: 0 30px;
+}
+.search{
+    margin: 0 30px;
+}
+.intro{
+    height: 100px;
+    margin: 50px 0;
+    padding: 10px;
+}
+h1,h2,h3{
+    font-size: 40pt;
+}
+.intro ion-icon{
+    font-size: 30pt;
+    margin: 0 10px;
+    color: #ff2d20;
+}
+.container-products{
+    margin: 50px auto;
+    max-width: 900px;
+}
+.row-product{
+    border: 1px solid black;
+}
+.col-product-1{
+    background: #abe0ee;
+}
+.col-product-2{
+    background: #75d0ea;
+}
+.col-product-3{
+    background: #36b9ea;
+    display: flex;
+}
+.container-create, .container-edit{
+    margin: 50px auto;
+    max-width: 600px;
+}
+.container-create form, .container-edit form{
+    margin: 40px 0;
+}
+.container-show-product{
+    margin: 100px 0;
+}
+
